@@ -10,10 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.15",
+    "@raphiniert/ra-data-postgrest": "2.0.0-alpha.3",
     "@supabase/auth-ui-react": "^0.4.6",
     "@supabase/auth-ui-shared": "^0.1.8",
     "@supabase/supabase-js": "^2.38.2",
+    "ra-core": "^4.15.1",
+    "ra-supabase": "^2.0.4",
+    "ra-supabase-ui-materialui": "^2.0.4",
     "react": "^18.2.0",
+    "react-admin": "^4.15.1",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.17.0"
   },
